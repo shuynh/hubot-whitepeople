@@ -14,7 +14,6 @@
 #   @shuynh 
 
 whitepeople = [
-  "https://i.minus.com/iAkhq7VOddshd.gif",
   "http://farm9.staticflickr.com/8422/7711589464_ecb19d4e42_o.gif",
   "http://37.media.tumblr.com/26505168ab643fd58d1a07fa195e3812/tumblr_mrsae988OI1r03eaxo1_400.gif",
   "http://37.media.tumblr.com/2b767cc9b2a0870e4135cb01e07f3055/tumblr_n4xka1zglp1qdlh1io1_400.gif",
@@ -37,7 +36,6 @@ whitepeople = [
   "http://media.giphy.com/media/NOQGYTXqGhn6o/giphy.gif",
   "http://i.imgur.com/YwXPvfB.gif",
   "http://i.imgur.com/1FCppEB.gif",
-  "http://s3-ec.buzzfed.com/static/2014-05/enhanced/webdr05/23/11/anigif_enhanced-buzz-8354-1400857289-20.gif",
   "http://i.imgur.com/sBRav.gif",
   "http://i.imgur.com/Rnwsi49.gif",
   "http://i.imgur.com/4DJ6MCd.gif",
